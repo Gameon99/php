@@ -1,0 +1,42 @@
+body{
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(image);
+    background-size: cover;
+    background-position: center;
+    
+    }
+h1,h2{  
+    color:yellow;
+    font-family:cursive
+    
+}
+button{
+  background-color: yellow; 
+  border: white;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+.login-box{
+    background: rgba(211,211,211,0.5);
+    max-width: 800px;
+    float:none;
+    margin: 140px auto;
+    padding: 30px;
+}
+.login-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding:30px;
+}
+.form-control{
+    background-color: transparent !important;
+}
+
+

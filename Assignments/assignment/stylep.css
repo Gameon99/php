@@ -1,0 +1,35 @@
+body{
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(image);
+    background-size: cover;
+    background-position: center;
+    margin:100%;
+    }
+.login-box{
+    width: 50%;
+    background:yellow;
+    max-width: 800px;
+    float:none;
+    margin: 100px auto;
+    padding: 30px;
+}
+.login-left{
+    background:#00BFFF;
+    padding: 30px;
+}
+.login-right{
+    background:#4169E1	;
+    padding:30px;
+}
+.form-control{
+    background-color: transparent !important;
+}
+h2{
+    color: black;
+    font-family: cursive;
+}
+label{
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+}
+
